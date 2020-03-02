@@ -1,2 +1,2 @@
 # timer
-Timer
+SVG circle Timer with play and pause buttons
